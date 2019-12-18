@@ -1,0 +1,51 @@
+body {
+  font-family: 'Didact Gothic', sans-serif;
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: 'Fredoka One'cursive;
+  font-weight: bold;
+  color: #fff;
+  text-align: left;
+  font-size: 3rem;
+}
+h2{margin-left: 100px;}
+
+p {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+/*Home */
+#Home {
+  padding-bottom: 130px;
+  background-color: #394a6d;
+}
+
+.main-title {
+  font-size: 4.5rem;
+  padding: 5% 0 0 6.5%;
+}
+
+.subtitle {
+  margin-top: 150px;
+
+}
+
+.dog1 {
+  height: 400px;
+  width: 500px;
+  border-radius: 100%;
+}
+
+/* App */
+#App {
+  background-color: #fff;
+  margin: 100px 0 100px;
+}
+
+.app-subtitle {
+  color: #394a6d
+}
+.btn{margin-top: 3%;}
